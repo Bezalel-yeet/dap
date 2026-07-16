@@ -40,6 +40,14 @@ This repo serves as a personal tracker and knowledge base to:
 
 ---
 
+## Universities
+
+| University | Folder | Status |
+| ---------- | ------ | ------ |
+| Queen Mary University of London | [universities/queen-mary-university-london](./universities/queen-mary-university-london/) | 🔄 Researching |
+
+---
+
 ## Notes
 
 _Add any research notes, programme details, contacts, or reminders here._
